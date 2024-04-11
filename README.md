@@ -11,4 +11,4 @@ I am inspired by Ada Lovelace and all women in programming.
 
 > Imagine a world where the Ada Lovelaces of tomorrow grow up to be optimistic and brave about technology and use it to create a new world that is wonderful, whimsical, and a tiny bit weird.Linda Liukas
 
-This video of [Linda Liukas] (https://www.youtube.com/watch?v=-jRREn6ifEQ&themeRefresh=1) is awesome!
+This video of [Linda Liukas]([url](https://www.youtube.com/watch?v=-jRREn6ifEQ&themeRefresh=1)) is awesome!
